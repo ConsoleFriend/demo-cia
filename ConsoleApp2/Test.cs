@@ -6,6 +6,6 @@ namespace ConsoleApp2
 {
     class Test
     {
-        //new line
+        //new line + feature B
     }
 }
